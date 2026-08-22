@@ -1,5 +1,5 @@
 # atividade-pratica-1-html-faculdade
-atividade para professora manuelly
+atividade para professora claudiany
 
 
 atv 1
