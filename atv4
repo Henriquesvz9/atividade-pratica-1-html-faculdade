@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>atv4.html </title>
+</head>
+<body>
+   <p>
+     <b>
+<h1>
+   senhores clientes hoje haverá uma promoção de nuggets por 4,99
+</h1>
+     </b>
+     <i>
+        OBS: MAXIMO DE 3 PEDIDOS POR PESSOA!
+     </i>
+   </p>
+   <button>  <a href="https://www.mcdonalds.com.br/mcdiafeliz/contato">  duvidas aperte aqui </button>
+</body>
+</html>
