@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> atv2.html </title>
+</head>
+<body>
+    <h1> atividade fisicas! </h1>
+    <p> 
+    <b>Prepare o seu corpo e a sua mente para
+         este momento de conexão, movimento e saúde individual.
+    </b>
+    </p>
+    <hr>
+    <ul> 
+<li> 
+    tenis de corrida!
+</li>
+<hr>
+<li>
+    bicicleta ou bicicleta ergometrica!
+</li>
+<hr>
+<li> 
+    roupas adequadas!
+</li>
+<hr>
+    </ul>
+
+<hr>
+
+    <ol>
+<li>
+    corrida normal ou na esteira, e muito bem aceito para o bem estar!
+</li>
+<hr>
+<li>
+    ciclismo e uma otima forma de cuidar da saude!
+</li>
+<hr>
+<li>
+    roupas adequadas para praticas esportes e sempre bem vindo 
+    para manter um bom conforto
+</li>
+<hr>
+    </ol>
+</body>
+</html>
